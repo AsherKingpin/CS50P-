@@ -13,4 +13,4 @@ elif y == "-":
 else:
     print("invaild operator")
 
-print(f"{total:1.f}")
+print(f"{total:.1f}")
